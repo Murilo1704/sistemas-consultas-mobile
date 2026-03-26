@@ -96,7 +96,4 @@ Este projeto foi desenvolvido com fins acadêmicos para prática de:
 
 ---
 
-## 👨‍💻 Autor
 
-Murilo Arcanjo
-GitHub: https://github.com/Murilo1704
